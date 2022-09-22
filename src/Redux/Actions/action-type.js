@@ -1,0 +1,9 @@
+const ActionTypes = {
+  FETCH_PRODUCTS: "FETCH_PRODUCTS",
+  FAV_PRODUCTS: "FAV_PRODUCTS",
+  REMOVE_FROM_FAV: "REMOVE_FROM_FAV",
+  LOADING: "LOADING",
+  FILTER: "FILTER",
+};
+
+export default ActionTypes;
