@@ -13,7 +13,7 @@ function GetProducts() {
           "content-type": "application/json",
           accept: "application/json",
           Authorization:
-            "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWthc2h1cGFkaHlheWFibEBnbWFpbC5jb20iLCJnaXRodWIiOiJodHRwczovL2dpdGh1Yi5jb20vUHJha2FzaC11cGFkaHlheWEiLCJpYXQiOjE2NjMzNDUyMDYsImV4cCI6MTY2Mzc3NzIwNn0.Yf4CKfaaVOAM3nCU1msxVnNf80y16MDgPx9cri2MXb0",
+            "Bearer token",
         },
       };
       await axios
